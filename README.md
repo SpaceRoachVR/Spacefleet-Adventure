@@ -8,12 +8,17 @@ Welcome to the SpaceRoachVR Horizon World Adventures repository! This project is
 - **Gameplay:** Designed for 1-4 players, emphasizing teamwork, puzzle-solving, and roleplay. (Game mechanics are described in supporting files; the story is written to be immersive and adaptable.)
 
 ## Repository Structure
-- `The Oblivion Shard - Short Story.txt` — The main narrative, formatted as a novel for easy reading and adaptation.
-- `Spacefleet missions - The Oblivion Shard.txt` — Mission outlines and objectives for gameplay sessions.
-- `AI Powered NPC Characters.txt` — Descriptions and dialogue for AI-driven NPCs.
-- `Synera IV and Spacefleet Game Universe lore.txt` — Background lore, world-building, and setting details.
-- `assets to generate for horizon world.txt` — List of 3D models, textures, and other assets needed for the VR world.
-- `scripts to generate for authentic Trek VR.txt` — Script ideas and technical notes for creating authentic Star Trek-inspired VR experiences.
+- **plan files/** — Planning documents and narrative materials:
+  - `The Oblivion Shard - Short Story.txt` — The main narrative, formatted as a novel for easy reading and adaptation.
+  - `Spacefleet missions - The Oblivion Shard.txt` — Mission outlines and objectives for gameplay sessions.
+  - `AI Powered NPC Characters.txt` — Descriptions and dialogue for AI-driven NPCs.
+  - `Synera IV and Spacefleet Game Universe lore.txt` — Background lore, world-building, and setting details.
+  - `assets_needed.txt` — List of 3D models, textures, and other assets needed for the VR world.
+  - `scripts needed.txt` — Script ideas and technical notes for creating authentic Trek VR experiences.
+- **scripts/** — TypeScript code implementing game mechanics:
+  - `phaser-fire-1.ts` — Implementation of the phaser weapon system.
+  - `PlayerManager_COMPLETE.ts` — Player management and interaction system.
+  - `types/` — TypeScript definition files for Horizon Worlds API.
 
 ## Getting Started
 1. **Read the Story:** Begin with `The Oblivion Shard - Short Story.txt` to immerse yourself in the universe and understand the main plot.
@@ -32,7 +37,7 @@ Please submit pull requests or open issues for feedback and collaboration.
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). You may share and adapt the material for non-commercial purposes, provided you give appropriate credit, indicate if changes were made, and distribute your contributions under the same license. For more details, see [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This project is licensed under the MIT License. This is a permissive free software license that puts minimal restrictions on reuse and has high compatibility with other licenses. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software. For more details, see [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
