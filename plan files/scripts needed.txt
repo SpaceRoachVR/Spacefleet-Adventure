@@ -1,0 +1,60 @@
+Scripts to Generate for Authentic Trek VR Experience (Story-Driven, Highly Detailed)
+
+1. Interactable Object Scripts
+- Phaser: Pickup, holster, fire (stun/disrupt), settings toggle, energy cell management, overheating, visual/audio feedback, multiplayer sync, timeline anomaly effects (e.g., phaser malfunctions in alternate timelines).
+- Tricorder: Scan (flora, fauna, tech, anomalies), analyze (minigames for data interpretation), display data (HUD overlays), record logs, environmental translation, branching scan results, timeline echo detection, glyph translation for Vault puzzles.
+- Aeon Harmonizer: Multi-stage energy balancing minigame, resonance feedback, fail/success states, upgrade integration (bio-crystals), visual resonance effects, timeline echo triggers, used for stabilizing the Oblivion Shard and gravimetric anchors.
+- Holo-Probe: 3D glyph puzzle projection, interaction logic, holographic log playback, interface with alien tech, puzzle randomization for replayability, used for Vault and anchor puzzles, memory echo collection.
+- Psi-Beacon: Initiate/resolve diplomacy events, psionic resonance feedback, calming/agitating effects, NPC state changes, branching outcomes, used for Lumenis and Void Choir encounters.
+- Anti-Grav Boots: Toggle gravity, movement physics, zero-G platforming, adjustable settings, multiplayer collision handling, timeline anomaly effects (gravity shifts).
+- Chrono-Brake Shroud: Activate time protection, cooldown, visual/audio effects, timeline anomaly detection, limited-use logic, protects against psionic feedback in the Depths of Memory.
+- ComBadge: Voice comms (player-to-player, player-to-NPC), haptic feedback, NPC call/response, mission update notifications, emergency transport trigger, timeline echo notifications.
+- Medical Kit: Heal (minigame), diagnose (scan for status effects), treat (nanobot injection, wound repair), multiplayer triage, log medical events, psionic trauma treatment.
+- Sonic Spanner/Structural Analyzer: Repair minigames (timed, skill-based), environmental hazard detection, feedback animations, unlock hidden paths, stabilize failing tech (e.g., Ecliptica systems).
+- Aeon Resonator: Glimpse alternate timelines, trigger flashbacks, reveal hidden consequences, interact with timeline fractures.
+
+2. Environment & Prop Scripts
+- Transporter Room: Beam in/out (player and NPC), energy effects, safety checks, buffer error events, emergency override, timeline echo overlays (see alternate arrivals).
+- Bridge Consoles: Navigation (plot course, avoid hazards), tactical (targeting, shield management), science (anomaly analysis), engineering (system repair), dialogue triggers, branching mission logic, timeline status indicators.
+- Holotable: Mission briefings, interactive 3D star maps, branching overlays, crew voting system for decisions, timeline/anchor status displays.
+- Coral Vaults: Puzzle doors (musical/glyph logic, error feedback), bioluminescent interactions (light-based puzzles), Lumenis events (manifestation, negotiation), environmental hazards (gravity shifts, time echoes), memory echo triggers, psionic feedback events.
+- Gravity Surf Course: Race logic, scoring, anti-grav physics, environmental hazards, multiplayer competition, timeline anomaly hazards.
+- Lore Echoes: Collectible holographic memories, unlockable through exploration, trigger narrative flashbacks, reveal alternate outcomes.
+- Gravimetric Anchors: Stabilization puzzles, psionic/energy surges, shadow entity encounters, timeline fracture events.
+- Ecliptica (Lost Ship): Temporal phase puzzles, rescue/communication logic, alternate timeline overlays.
+
+3. Dialogue & NPC Scripts
+- Branching dialogue trees for all main crew and key NPCs, with emotional state tracking, dynamic responses, and memory of past interactions.
+- Mood-shader feedback (color/emotion cues on uniforms and HUD), NPC reactions to player choices, psionic resonance events.
+- Dynamic responses based on player actions, mission state, timeline echoes, and alternate outcomes.
+- Captain’s Log and mission narration (player and NPC generated), log branching based on outcomes, timeline reflections.
+- AI-powered NPCs: Adaptive personalities, memory of past interactions, context-aware advice, conflict mediation, timeline awareness (NPCs may reference alternate events).
+- Lumenis Collective: Multi-voice dialogue, psionic resonance events, collective decision-making logic, memory sharing, song-based communication.
+- Void Choir: Psionic/choral dialogue, guidance during timeline/anchor events, cryptic warnings.
+- Shadow Entity: Dynamic antagonistic dialogue, timeline manipulation, paradox triggers.
+
+4. Mission & Logic Scripts
+- Mission state management (objectives, branching outcomes, fail/success conditions, timeline tracking, paradox handling).
+- Ethical dilemma triggers and resolution logic (multiple solutions, hidden consequences, replayable outcomes, timeline branching).
+- Alternate timeline/Aeon Resonator events (flashbacks, alternate outcomes, paradox handling, memory echo integration).
+- Inventory and gear management (pickup, use, combine, upgrade, loss on failure, timeline-based changes).
+- Team role assignment and abilities (Tactical, Science, Engineering, Diplomacy; unique interactions, role-based puzzles, cooperative logic, timeline-dependent abilities).
+- Achievement and lore tracking (hidden objectives, unlockable content, narrative rewards, timeline-specific achievements).
+- Timeline fracture/repair logic: Detect, trigger, and resolve timeline anomalies, paradoxes, and alternate endings.
+
+5. UI & HUD Scripts
+- LCARS-style overlays: Mission logs, dialogue trees, inventory, crew status, mood-shader feedback, timeline echo notifications, alternate outcome indicators.
+- Tricorder/Scanner HUD: Real-time data, anomaly alerts, translation overlays, branching scan results, timeline fracture warnings.
+- Mission branching indicators, timeline echo notifications, achievement popups, memory/lore collection status.
+- Accessibility options: Colorblind modes, audio cues, adjustable text size, VR comfort settings, psionic feedback filters.
+- Timeline/anchor status displays: Show current timeline, anchor stability, and alternate outcomes.
+
+6. Audio & Effects Scripts
+- Ambient sound triggers (ship, planet, events), dynamic layering based on location, mission state, and timeline.
+- Holographic, transporter, and puzzle effects: Layered sound design, visual particle systems, feedback for success/failure, timeline anomaly effects.
+- Musical cues: Dynamic score for diplomacy, tension, discovery, timeline shifts, emotional moments, Void Choir harmonics.
+- Voice comms: Real-time player and NPC audio, context-aware responses, echo/reverb for timeline anomalies, psionic resonance effects.
+- Memory echo playback: Holographic audio/visual flashbacks, alternate timeline overlays.
+- Shadow entity effects: Distorted audio, visual glitches, paradox feedback.
+
+All scripts should be modular, support multiplayer, and allow for branching, replayable experiences true to the spirit of Star Trek and the story of the Oblivion Shard. Emphasize VR immersion, tactile feedback, narrative depth, and the consequences of player choice in every system.

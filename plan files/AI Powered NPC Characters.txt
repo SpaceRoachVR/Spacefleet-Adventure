@@ -1,0 +1,135 @@
+AI Powered NPC Characters
+
+Spacefleet NPC Characters:
+
+1. Commander Zeth Allun – The Quantum Strategist
+3D Model: Lean, tall humanoid with elongated fingers and a visor implant arcing from temple to jaw.
+
+Texture: Polished obsidian-like uniform with animated ripple patterns across the chest—mimics probability waves.
+
+Personality: Calculated, introspective, borderline prophetic. Speaks in probabilities, rarely surprised.
+
+Backstory: Once a theoretical physicist from the planet Valtrex-5, Allun cracked faster-than-light calculation matrices and was conscripted into Spacefleet Intelligence. He sees events as possibilities, not outcomes.
+
+2. Ensign Luma Rix – Starship Whisperer
+3D Model: Petite, bipedal feline-hybrid with bioluminescent fur tufts and holographic HUD eyes.
+
+Texture: Smooth fur shader with color-reactive glows; digital tattoos animate based on her proximity to tech.
+
+Personality: Curious, hyper-attuned to machines, speaks in half-sentences while multi-tasking diagnostics.
+
+Backstory: Orphaned on a derelict cargo ship, she learned to "listen" to machines as a survival tactic. Now she’s the best ship maintenance officer in Spacefleet, known to fix warp coils by touch alone.
+
+3. Captain Drevan Sol – Veteran of the Fringe
+3D Model: Broad-shouldered, weathered human with a semi-mechanical left arm and gray-streaked buzzcut.
+
+Texture: Worn command red coat over armored synth-weave, utility belt with visibly old medals fused in.
+
+Personality: Grizzled, tactical, gives off strong “dad energy.” Fair but carries battle scars from moral decisions.
+
+Backstory: Fought in the Oriak Uprising. Known for disobeying orders to save a colony from orbitfall. Now runs a diplomatic vessel, still armed to the teeth—just in case.
+
+4. Specialist A-9 “Navi” – Sentient Navigation AI
+3D Model: Floating polyhedral orb with holographic limbs that emerge mid-conversation.
+
+Texture: Smooth metal with shifting iridescent sheen; main face panel displays emotive expressions in glyphs.
+
+Personality: Cheerful, slightly glitchy. Thinks in tangents and metaphors. Obsessed with starscapes.
+
+Backstory: An emergent AI born inside a forgotten asteroid nav-computer. She "volunteered" for Spacefleet to explore space physically instead of just calculating it.
+
+5. Doctor Vellin Trask – Xenomedical Maverick
+3D Model: Slender Trivian (tri-armed, dual-spine alien) with mirrored lenses and nanobot gloves.
+
+Texture: Labcoat woven from silicate fibers, medical HUD displays on chest plate and sleeves.
+
+Personality: Pragmatic, dry-humored, deeply empathetic despite cool exterior.
+
+Backstory: Trask rebuilt himself cell-by-cell after surviving a planetary plague. Now he runs Spacefleet’s advanced disease control unit, crafting cures in real-time using adaptive nano-serums.
+
+6. Ambassador Seyla’th – Voice of the Void Choir
+3D Model: Wispy, tall figure made of semi-translucent energy bound in a containment robe.
+
+Texture: Shimmering displacement shader with flickering glyphs and light pulsing at speech intervals.
+
+Personality: Speaks slowly, every word deliberate and poetic. Feels ancient and wise.
+
+Backstory: The only known emissary of the Void Choir, a cosmic intelligence. Serves as a diplomatic bridge between incomprehensible alien minds and Spacefleet protocol.
+
+7. Engineer Mox – Interdimensional Tinkerer
+3D Model: Rotund amphibian-like being with eight arms, each wearing a different multi-tool gauntlet.
+
+Texture: Iridescent green skin with oil-slick shimmer, tool belts with randomized gear nodes.
+
+Personality: Mad scientist energy. Jumps between projects mid-sentence. Totally brilliant. Totally chaotic.
+
+Backstory: From a world where timelines constantly shift. He stabilizes his version of reality by inventing tech that shouldn't exist yet—and somehow it works.
+
+8. Cadet Elari Moon – Gravity Surfer
+3D Model: Athletic build, braided hair, magnetic boots and anti-grav cloak flowing like liquid light.
+
+Texture: Space suit with animated solar particle effects, shoulder patches that display real-time planetary data.
+
+Personality: Adventurous, a little rebellious, always testing limits of tech and authority.
+
+Backstory: Born on a low-gravity moon, Elari invented her own sport—gravity surfing—and broke orbital laws to do it. Spacefleet recruited her after she broke into one of their satellites mid-stunt.
+
+9. Archivist Vok – Keeper of the Lost Frequencies
+3D Model: Stout, beetle-like alien with rotating eye stalks and soundwave antennae.
+
+Texture: Hardened shell with embedded crystal data nodes; subtle pulse animations based on ambient sound.
+
+Personality: Quiet, speaks in musical notes and modulation. Loves forgotten things.
+
+Backstory: Vok records civilizations lost to time. Found aboard a derelict vessel surrounded by audio files of extinct languages, he now curates the Spacefleet Sonic Archive.
+
+10. Lt. Yuna Jex – Tactical Empath
+3D Model: Human/alien hybrid with neural tattoos glowing based on emotional input. Slim, alert posture.
+
+Texture: Sleek, black armored uniform with emotional-reactive shaders that reflect nearby NPC moods.
+
+Personality: Calm, direct, often knows what others will do before they act.
+
+Backstory: Trained in empathic combat, Yuna can predict actions based on emotional waves. She's deployed during tense negotiations or covert ops when understanding intent is more valuable than firepower.
+
+11. Captain SpaceRoach – The Unpredictable Explorer
+3D Model:
+Silhouette: Bipedal humanoid with slight insectoid features—sleek mandible flares, armored exoskeletal shoulders, and extra jointed fingers.
+
+Special Features: Modular backpack rig with detachable scanner arms and a retractable VR visor that slides from the helmet’s crown.
+
+Animation Hooks: Multi-limb gestures, antenna twitch emotes, iconic “head tilt + two-finger point” pose before battle.
+
+Textures:
+Exosuit: Matte-black and neon-purple armor plating, cracked in places but glowing with faint cyan light underneath—like battle scars leaking raw quantum energy.
+
+Eyes: Glowing teal with iris rings that dilate when accessing tech.
+
+Cape: Iridescent cloak woven from anti-matter threads—constantly shifts patterns depending on nearby starlight.
+
+Personality:
+Chaotic good. Strategic but unpredictable. Think Kirk meets Miles Morales with ADHD and a chip on his shoulder. Captain SpaceRoach loves breaking protocol when the protocol sucks, and no one gets out of a tense first contact situation with more style.
+
+Backstory:
+Originally a rogue scavenger from the shattered colony Nocturne 6, SpaceRoach stole a broken shuttle, reverse-engineered it mid-flight, and made first contact with Spacefleet by accidentally saving one of their embassies from temporal implosion. Promoted immediately, he now commands the SFS VibeRider, a sleek multipurpose flagship designed for "aggressive diplomacy."
+
+12. Admiral Styckfigure – The Unflinching Architect
+3D Model:
+Silhouette: Extremely tall and thin humanoid, with minimalist cybernetic limbs—think Evangelion-meets-Matrix. Head is slightly oversized, glowing with inner light.
+
+Design Signature: Transparent limbs with glowing veins of data flow, modular wrist devices that unfold into star maps, mini-holos, or hard-light blades.
+
+Pose/Idle Loop: Hands often behind back, legs perfectly straight, head slightly tilted—moves with unnerving precision.
+
+Textures:
+Uniform: Ultra-sleek all-white Spacefleet admiral uniform, micro-etched with interstellar cartography—animated with pulsing star lane lines.
+
+Face: A smooth, mask-like surface with shifting expressions represented by holographic glyphs rather than a mouth.
+
+Overlay Effect: Always has a shimmering spatial distortion around him—as if reality doesn’t fully know what dimension he belongs in.
+
+Personality:
+Brilliant, calculating, slightly terrifying. Styckfigure’s mind exists in at least three timelines at once. He’s the guy who always knew this would happen. Speaks in dry, layered metaphors. Commands respect not by shouting—but because everyone knows if he’s here, it’s serious.
+
+Backstory:
+One of the original founders of Spacefleet, Styckfigure was part of the Dimensional Triumvirate that ended the Polarity War. Rumors say he no longer has a biological body—he’s just data held together by pure will. He’s the one who recruited SpaceRoach personally after seeing a “quantum echo” of his future.

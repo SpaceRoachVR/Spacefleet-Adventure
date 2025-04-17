@@ -1,0 +1,62 @@
+Assets to Generate for Horizon World (Story-Driven, Highly Detailed, Trek-Inspired)
+
+1. Characters & Avatars
+- Main Crew: Multiple body types, species, and uniform variants. Uniforms feature mood-shader tech (color shifts with emotion), customizable insignia, interactive commbadges, and timeline echo overlays (alternate versions for timeline events).
+- Lumenis: Modular coral forms, bioluminescent animations, multiple collective shapes (humanoid, tendril, reef-mass), ritual and defensive forms, memory-sharing visual effects, psionic resonance animations.
+- Void Choir: Abstract, choral-entity forms, shifting light and sound-based avatars, psionic aura effects.
+- Shadow Entity: Swirling shadow/energy form, visual glitches, paradox feedback effects, alternate timeline variants.
+- NPCs: Ambassador Seyla’th (energy/containment robe, animated glyphs), Admiral Styckfigure (cybernetic limbs, star map holos), Councilor 12 (shifting features), Captain Dren (Ecliptica), Luma Rix, Zeth Allun, Mox, Vok, Yuna Jex, Elari Moon, and more, each with unique gear and emotional feedback shaders.
+
+2. Starship & Interior
+- SFS VibeRider Bridge: Interactive LCARS-style consoles (navigation, science, tactical, engineering), holotable with 3D star maps, captain’s chair with command interface, ambient lighting controls, timeline/anchor status displays.
+- Transporter Room: Animated pads, energy effects, safety interlocks, transporter buffer console, timeline echo overlays (alternate arrivals).
+- Ready Room: Personal log terminal, holographic display, interactive artifacts, memory echo playback device.
+- Crew Quarters: Customizable decor, personal storage, interactive beds and replicators, timeline echo objects.
+- Medical Bay: Biobed, diagnostic scanner, nanobot dispenser, medical hologram interface, psionic trauma treatment station.
+- Ecliptica (Lost Ship): Damaged/phase-shifting corridors, temporal anchor core, rescue/communication consoles, alternate timeline overlays.
+
+3. Planetside & Environment
+- Edenis Spire: Floating city with domes, living reef integration, skybridges, market stalls, animated crowds, ambient wildlife, timeline anomaly overlays.
+- Coral Vaults: Shifting crystalline tunnels, bioluminescent pools, Lumenis glyph doors, environmental hazards (gravity shifts, time echoes), musical/glyph puzzle doors, memory echo triggers, psionic feedback zones.
+- Synera IV Surface: Coral sands, floating isles, interactive flora (Sky-shard Orchids, Lumineels), weather effects (triple dawns, auroras), timeline fracture sites.
+- Gravimetric Anchors: Massive crystalline constructs, shifting glyphs, psionic/energy surge effects, shadow entity encounter zones, timeline fracture visuals.
+- Void Between: Swirling energy vortex, solid-light platforms, psionic/temporal distortion effects, shadow entity lair.
+
+4. Props & Equipment (All Interactable)
+- Phaser (pistol/rifle): Modular settings (stun/disrupt), energy cell management, overheating effects, visual/audio feedback, timeline anomaly variants.
+- Tricorder: Scanning minigames, environmental analysis, glyph translation, log recording, timeline echo detection, memory echo playback.
+- Aeon Harmonizer: Energy balancing puzzles, upgrade slots for bio-crystals, visual resonance effects, timeline echo triggers, anchor stabilization interface.
+- Holo-Probe: 3D puzzle projection, holographic log playback, interface with alien tech, memory echo collection, timeline fracture analysis.
+- Psi-Beacon: Diplomacy/communication tool, psionic resonance feedback, calming/agitating effects, timeline-dependent outcomes.
+- Anti-Grav Boots: Zero-G movement, platforming, adjustable gravity settings, timeline anomaly effects.
+- Chrono-Brake Shroud: Time anomaly protection, visual distortion, cooldown indicator, psionic feedback shield.
+- ComBadge: Voice comms, haptic feedback, NPC call/response, mission update notifications, timeline echo notifications.
+- Medical Kit: Healing minigame, status effect treatment, nanobot injection animation, psionic trauma treatment.
+- Sonic Spanner/Structural Analyzer: Repair minigames, environmental hazard detection, feedback animations, anchor/ship stabilization.
+- Aeon Resonator: Alternate timeline viewer, flashback trigger, paradox detector, memory echo interface.
+- Lore Echoes: Collectible holographic memory objects, unlockable through exploration and puzzle-solving, timeline-specific variants.
+
+5. UI & HUD
+- LCARS-style overlays: Mission logs, dialogue trees, inventory, crew status, mood-shader feedback, timeline echo notifications, alternate outcome indicators.
+- Tricorder/Scanner HUD: Real-time data, anomaly alerts, translation overlays, timeline fracture warnings.
+- Mission branching indicators, timeline echo notifications, achievement popups, memory/lore collection status.
+- Timeline/anchor status displays: Show current timeline, anchor stability, alternate outcomes.
+- Accessibility options: Colorblind modes, audio cues, adjustable text size, VR comfort settings, psionic feedback filters.
+
+6. Audio & Effects
+- Ambient ship/planet sounds: Engine hum, coral reef ambience, Lumenis chorus, timeline anomaly overlays.
+- Bioluminescent creature calls, environmental cues for hazards, psionic resonance effects.
+- Holographic, transporter, and puzzle effects: Layered sound design, visual particle systems, timeline fracture effects.
+- Musical cues: Dynamic score for diplomacy, tension, discovery, timeline shifts, Void Choir harmonics, shadow entity themes.
+- Memory echo playback: Holographic audio/visual flashbacks, alternate timeline overlays.
+- Shadow entity effects: Distorted audio, visual glitches, paradox feedback.
+
+7. Miscellaneous
+- HoloBazaar stalls: Wearables, gadgets, interactive vendor NPCs, timeline-variant items.
+- Coral Court: Event space with dynamic lighting, crowd simulation, performance stage, timeline echo events.
+- Gravity Surf Boards: Customizable, animated trails, race course elements with interactive hazards, timeline anomaly hazards.
+- Timeline Fracture Sites: Visual/interactive markers for alternate timeline access, paradox events.
+- Memory Echo Terminals: Devices for reviewing collected lore/memories, timeline branching visualizations.
+
+All assets should be optimized for VR: tactile feedback, animated states, branching interaction logic, timeline/alternate outcome support, and accessibility options (colorblind modes, audio cues, adjustable text size).
+
